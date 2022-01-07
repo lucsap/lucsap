@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on CJR - Junior Computer Company
 - 🌱 I’m currently learning web development
 - ⚡ Fun fact: NARUTO!!!
-- 📍 From Brazil
+- 📍  From Brazil
 
 <div align="center">
   <a href="https://github.com/lucsap">

@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Lucas Pereira
 
-- 🔭 I’m currently working on CJR - Junior Computer Company
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development and Offensive Security
+- 🔭 Ex-member from CJR - Junior Computer Company
 - ⚡ Fun fact: NARUTO!!!
 - 📍  From Brazil
 

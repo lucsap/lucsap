@@ -1,10 +1,5 @@
 ### Hi there 👋 I'm Lucas Pereira
 
-- 🌱 I’m currently learning web development and Offensive Security
-- 🔭 Ex-member from CJR - Junior Computer Company
-- ⚡ Fun fact: NARUTO!!!
-- 📍  From Brazil
-
 <div align="center">
   <a href="https://github.com/lucsap">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucsap&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
